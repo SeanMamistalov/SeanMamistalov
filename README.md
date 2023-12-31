@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean Mamistalov</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Minesweeper's project**
+- 🔭 I’m currently working on **Minesweeper's project** [https://seanmamistalov.github.io/Minesweeper/]
 
 - 🌱 I’m currently studying at **Coding Academy BootCamp**
 
