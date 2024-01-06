@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sean Mamistalov</h1><br>
-<br>
-
+<h1 align="center">Hi 👋, 
+  <br></bar>I'm Sean Mamistalov</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Minesweeper's project**
