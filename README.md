@@ -2,7 +2,7 @@
   I'm Sean Mamistalov</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Meme Generator's project**
+- 🔭 I’m currently working on **Appsus's project**
 
 - 🌱 I’m currently studying at **Coding Academy BootCamp**
 
