@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 <br>
   I'm Sean Mamistalov</h1>
-<h3 align="center">A passionate Full-Stack/Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Appsus's project**
 
