@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋 <br>
   I'm Sean Mamistalov</h1>
 
-- 🔭 I’m currently working on **Appsus's project**
-
-- 🌱 I’m currently studying at **Coding Academy BootCamp**
+- ✅ Recently completed my **Planit project – a Trello-like task management app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeanMamistalov?tab=repositories](https://github.com/SeanMamistalov?tab=repositories)
 
 - 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/seanmamistalov/](https://www.linkedin.com/in/seanmamistalov/)
 
 - 💬 Ask me about **Frontend Tools**
-
-- 📫 How to reach me **mamistalovsean@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
